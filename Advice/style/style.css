@@ -1,3 +1,28 @@
 *{
   box-sizing: border-box;
 }
+body{
+  background-color: lightblue;
+  /* background-image: url("https://expertphotography.com/wp-content/uploads/2018/02/street-photography-juxtaposition1.jpg");
+  background-repeat: no-repeat; */
+}
+#image{
+  background-image: url("https://expertphotography.com/wp-content/uploads/2018/02/street-photography-juxtaposition1.jpg");
+  background-repeat: no-repeat;
+  height: 50rem;
+  margin-left: 25%;
+  margin-bottom: 95%;
+
+
+}
+button{
+
+  margin-left: 20%;
+  margin-top: 15%;
+}
+h2{
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-family: Arial, sans-serif	;
+}
